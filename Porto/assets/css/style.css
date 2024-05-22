@@ -1,0 +1,17 @@
+.rounded-image {
+    width: 262px;
+    height: 262px;
+    display: block;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #fff;
+}
+
+
+.resipacket {
+    width: 300px;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    background-position: center;
+}
